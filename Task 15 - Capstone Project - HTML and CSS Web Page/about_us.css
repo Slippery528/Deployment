@@ -1,0 +1,38 @@
+/* Styling for navigation */
+nav {
+  background-color: #ffbc04; /* Set background color to gold */
+  color: #fff; /* Set text color to white */
+  padding: 10px; /* Add padding around navigation links */
+  text-align: center; /* Center-align the navigation links */
+  font-family: "Montserrat", sans-serif; /* Use Montserrat font for navigation */
+}
+nav a {
+  color: #fff; /* Set link color to white */
+  text-decoration: none; /* Remove underline from links */
+  margin: 0 10px; /* Add margin between navigation links */
+}
+nav a:hover {
+  text-decoration: underline; /* Underline links on hover */
+}
+
+/* Styling for main heading */
+h1 {
+  font-family: "Montserrat", sans-serif; /* Use Montserrat font for main heading */
+  text-align: center; /* Center-align the main heading */
+  font-size: 50px; /* Set font size to 50px */
+  margin-top: 60px; /* Add top margin of 60px */
+}
+
+/* Styling for body */
+body {
+  background-color: #d2e3fc; /* Set background color for the entire page */
+}
+
+p {
+  font-family: "Montserrat", sans-serif; /* Use Montserrat font for paragraphs */
+  margin-top: 100px; /* Add top margin of 100px to paragraphs */
+}
+
+li {
+  font-family: "Montserrat", sans-serif; /* Use Montserrat font for list items */
+}
